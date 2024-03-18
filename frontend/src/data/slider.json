@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "id": 0,
+      "title": "Garage Auto Street",
+      "description": "Contactez-nous: 04.75.60.76.27",
+      "picture": "../src/assets/img/banner1.webp"
+    },
+    {
+      "id": 1,
+      "title": "Mécanique générale",
+      "description": "et entretiens",
+      "picture": "../src/assets/img/banner2.webp"
+    },
+    {
+      "id": 2,
+      "title": "Montage pneus",
+      "description": "neufs et occasions",
+      "picture": "../src/assets/img/banner3.webp"
+    },
+    {
+      "id": 3,
+      "title": "Atelier de carosserie",
+      "description": "réparations ou mise à neuf",
+      "picture": "../src/assets/img/banner4.webp"
+    }
+  ],
+  "arrow": [
+    {
+      "id": 0,
+      "picture": "../src/assets/img/arrow_right.webp"
+    },
+    {
+      "id": 1,
+      "picture": "../src/assets/img/arrow_left.webp"
+    }
+  ]
+}

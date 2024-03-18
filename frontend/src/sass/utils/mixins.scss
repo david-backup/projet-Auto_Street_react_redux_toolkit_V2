@@ -1,0 +1,14 @@
+/********** font Lato **********/
+@mixin lato {
+  font-family: "Lato", sans-serif;
+}
+
+/********** font Poppins **********/
+@mixin poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+/********** transition 350ms ease **********/
+@mixin transition350 {
+  transition: all 350ms ease;
+}
